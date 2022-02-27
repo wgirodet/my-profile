@@ -1,0 +1,78 @@
+body {
+background-color: 03045E; 
+color: rgb(50;50;50);
+font-family: Futura.;
+font-size: 16px;
+}
+
+h1{
+color: 86C6F4;
+font-family: Courrier;
+font-size: 32px;
+}
+
+h2{
+color: rgb(100;100;100);
+font-family: Courrier;
+font-size: 24px;
+font-weight: lighter;
+}
+
+a{
+	color: blue;
+text-decoration: 
+}
+
+a:hover {
+color: purple ;
+}
+
+
+
+custom design :
+
+ 
+.container {
+	width: 700px;
+	margin:40px auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.btn-blue{
+	background-color: 86C6F4;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i{
+	font-size: 50px;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
